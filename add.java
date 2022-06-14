@@ -1,7 +1,9 @@
-public class Add{
+public class add{
     public static void main(String args[]){
-        int a= 10;
-        int b= 20;
-        System.out.println(a+b);
+        int a=5;
+        int b=8;
+        System.out.println("The result is:"+(a+b));
+         System.out.println("The result is: "+(a*b));
     }
+
 }
